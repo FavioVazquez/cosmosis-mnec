@@ -36,6 +36,6 @@ git clone https://bitbucket.org/joezuntz/cosmosis-docker
 ```
 update-cosmosis --develop
 ```
-6. La primera vez que hagas todos estos pasos debe correr `make`.
+6. La primera vez que hagas todos estos pasos debes correr `make`
 
 En el futuro solo hace falta que hagas el paso 5. 
