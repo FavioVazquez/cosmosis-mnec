@@ -14,3 +14,28 @@ Consolida y conecta los códigos existentes para predecir observables cósmicos,
 mucho más accesible el mapeo de likelihoods experimentales con un rango de diferentes técnicas.
 
 CosmoSIS está descrito en Zuntz et al: http://arxiv.org/abs/1409.3409.
+
+## Instalación de CosmosSIS-Docker (asegúrate que tengas instalado [Git](https://git-scm.com/))
+
+To install CosmoSIS with this tool:
+
+1. Instala Docker (paso uno de https://docs.docker.com/docker-for-mac/ para OSX) desde 
+www.docker.com
+2. Arranca Docker siguiendo las instrucciones del sitio. No hace falta leer los tutoriales
+3. Descarga esta herramienta corriendo:
+
+```
+git clone https://bitbucket.org/joezuntz/cosmosis-docker
+```
+4. Con el comando `cd`muévete al nuevo directorio de cosmosis-docker y corre:
+
+```
+./get-cosmosis-and-vm ./cosmosis
+```
+5. Para obtener la versión de dasarrollo que tiene algunos bugs corregidos y los ùltimos updates corre el comando:
+```
+update-cosmosis --develop
+```
+6. La primera vez que hagas todos estos pasos debe correr `make`.
+
+En el futuro solo hace falta que hagas el paso 5. 
