@@ -38,4 +38,7 @@ update-cosmosis --develop
 ```
 6. La primera vez que hagas todos estos pasos debes correr `make`
 
-En el futuro solo hace falta que hagas el paso 5. 
+En el futuro solo hace falta que hagas el paso 5. Para ms información sobre esta herramienta 
+ingresa al repositorio de los creadores:
+
+https://bitbucket.org/joezuntz/cosmosis-docker
