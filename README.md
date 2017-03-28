@@ -2,6 +2,14 @@
 
 Hola a todos, este repositorio contendrá la charla, láminas, código, y todo el contenido necesario para instalar y ejecutar comandos simples con CosmoSIS. Debajo dejo dos cosas, una es la traducción de la breve descripción que hacen los creadores de CosmoSIS sobre el framework, y luego el proceso de instalación para CosmoSIS-Docker, ambas traducciones son mías.
 
+## Encuestas (IMPORTANTE)
+
+Por favor responde honestamente las preguntas de la siguiente encuesta:
+
+### [Encuesta Charla CosmoSIS](https://www.surveymonkey.com/r/DXNYVGQ)
+
+Me ayudarán a saber la audiencia a la cual será presentada y sus conocimientos.
+
 ## ¿Qué es CosmoSIS?
 
 CosmoSIS es un código para la estimación de parámetros cosmológicos.
