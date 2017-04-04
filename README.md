@@ -1,5 +1,7 @@
 # CosmoSIS
 
+[![Join the chat at https://gitter.im/cosmosis-mx/mnec](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cosmosis-mx/mnec)
+
 Hola a todos, este repositorio contendrá la charla, láminas, código, y todo el contenido necesario para instalar y ejecutar comandos simples con CosmoSIS. Debajo dejo dos cosas, una es la traducción de la breve descripción que hacen los creadores de CosmoSIS sobre el framework, y luego el proceso de instalación para CosmoSIS-Docker, ambas traducciones son mías.
 
 ## Encuestas (IMPORTANTE)
