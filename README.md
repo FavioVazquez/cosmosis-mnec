@@ -27,8 +27,6 @@ CosmoSIS está descrito en Zuntz et al: http://arxiv.org/abs/1409.3409.
 
 ## Instalación de CosmosSIS-Docker (asegúrate que tengas instalado [Git](https://git-scm.com/))
 
-To install CosmoSIS with this tool:
-
 1. Instala Docker (paso uno de https://docs.docker.com/docker-for-mac/ para OSX) desde 
 www.docker.com
 2. Arranca Docker siguiendo las instrucciones del sitio. No hace falta leer los tutoriales
