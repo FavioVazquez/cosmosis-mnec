@@ -40,11 +40,18 @@ git clone https://bitbucket.org/joezuntz/cosmosis-docker
 ```
 ./get-cosmosis-and-vm ./cosmosis
 ```
-5. Para obtener la versión de dasarrollo que tiene algunos bugs corregidos y los ùltimos updates corre el comando:
+
+5. Ya que la descarga y el proceso de instalación esté completo, corre:  
+
+```
+./start-cosmosis-vm ./cosmosis
+```
+
+6. Para obtener la versión de dasarrollo que tiene algunos bugs corregidos y los ùltimos updates corre el comando:
 ```
 update-cosmosis --develop
 ```
-6. La primera vez que hagas todos estos pasos debes correr `make`
+7. La primera vez que hagas todos estos pasos debes correr `make`
 
 En el futuro solo hace falta que hagas el paso 5. Para más información sobre esta herramienta 
 ingresa al repositorio de los creadores:
