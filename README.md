@@ -44,7 +44,7 @@ sudo ./get-cosmosis-and-vm ./cosmosis
 5. Ya que la descarga y el proceso de instalación esté completo, corre:  
 
 ```
-./start-cosmosis-vm ./cosmosis
+sudo ./start-cosmosis-vm ./cosmosis
 ```
 
 6. Para obtener la versión de dasarrollo que tiene algunos bugs corregidos y los ùltimos updates corre el comando:
