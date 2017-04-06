@@ -28,7 +28,7 @@ CosmoSIS está descrito en Zuntz et al: http://arxiv.org/abs/1409.3409.
 ## Instalación de CosmosSIS-Docker (asegúrate que tengas instalado [Git](https://git-scm.com/))
 
 1. Instala Docker (paso uno de https://docs.docker.com/docker-for-mac/ para OSX) desde 
-www.docker.com
+www.docker.com. Una guía para instalación en Ubuntu se ecuentra [acá](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
 2. Arranca Docker siguiendo las instrucciones del sitio. No hace falta leer los tutoriales
 3. Descarga esta herramienta corriendo:
 
@@ -38,7 +38,7 @@ git clone https://bitbucket.org/joezuntz/cosmosis-docker
 4. Con el comando `cd`muévete al nuevo directorio de cosmosis-docker y corre:
 
 ```
-./get-cosmosis-and-vm ./cosmosis
+sudo ./get-cosmosis-and-vm ./cosmosis
 ```
 
 5. Ya que la descarga y el proceso de instalación esté completo, corre:  
